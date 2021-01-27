@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DefaultSceneEntity.qml</file>
+        <file>SkinnedEntity.qml</file>
+        <file>SkinnedPbrEffect.qml</file>
+        <file>skinnedPbr.vert</file>
+        <file>cedar_bridge_irradiance.dds</file>
+        <file>cedar_bridge_specular.dds</file>
+        <file>untitled.gltf</file>
+        <file>untitled.bin</file>
+        <file>metalrough.frag.json</file>
+    </qresource>
+</RCC>
